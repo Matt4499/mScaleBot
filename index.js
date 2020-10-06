@@ -125,4 +125,4 @@ function gifto60(filename, message) {
 		// });
 	});
 }
-client.login("NzAwMjA4NzEzNTMyOTY0ODg0.XpfmLg.-w-37AWNVBYTISeUxsJf4WFhbVQ");
+client.login("token"); // I totally didn't just leak my token. (I reset it :P) 
